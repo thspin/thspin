@@ -8,7 +8,6 @@
   <p>
     <strong>🛠️ My Expertise:</strong><br>
     <ul style="list-style-type: none; padding-left: 20px;">
-      <br>
       <li style="margin-top: 20px;">🔍 Passionate about answering complex questions such as:
         <ul style="list-style-type: disc; padding-left: 20px;">
           <li>📈 How can we improve operational efficiency?</li>
