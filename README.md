@@ -41,13 +41,13 @@
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 <br>
 <div style="text-align: center;">
-  <img alt="Coding" src="" style="max-width: 100%; height: auto;">
+  <img alt="Coding" src="https://i.imgur.com/3ZHrSDg.png" style="max-width: 100%; height: auto;">
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
 <div style="text-align: center;">
-  <img alt="Data Stack" src="" style="max-width: 100%; height: auto;">
+  <img alt="Data Stack" src="https://i.imgur.com/GGc3Tnb.png" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
