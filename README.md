@@ -6,7 +6,6 @@
     As a Data Analyst, I specialize in uncovering hidden stories within numbers and transforming them into clear, actionable strategies. I don’t just analyze data; I interpret it, give it meaning, and turn it into tools for informed decision-making.
   </p>
   <p>
-    <strong>🛠️ My Expertise:</strong><br>
     <ul style="list-style-type: none; padding-left: 20px;">
       <li style="margin-top: 20px;">🔍 Passionate about answering complex questions such as:
         <ul style="list-style-type: disc; padding-left: 20px;">
