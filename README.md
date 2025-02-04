@@ -41,4 +41,5 @@
   </ul>
 </div>
 <br>
-<h3 align="left">Data Analyst & BI Developer Stack:</h3>
+<img align="right" alt="Coding" style="max-width: 100%; height: auto;" src="https://i.imgur.com/UspWpbB.png">
+
