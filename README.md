@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pablo Moreno</h1>
+ <h1 align="center">Hi 👋, I'm Pablo Moreno</h1>
 <h3 align="center">A Data Analyst Passionate About Transforming Data into Strategic Decisions 🚀</h3>
 
 <div style="text-align: justify; max-width: 800px; margin: 0 auto;">
@@ -8,11 +8,8 @@
   <p>
     <strong>🛠️ My Expertise:</strong><br>
     <ul style="list-style-type: none; padding-left: 20px;">
-      <li>📊 Proficient in tools like <strong>Excel</strong>, <strong>SQL</strong>, and <strong>Power BI</strong>.</li>
-      <li>🔍 Skilled in data cleaning, visualization, and storytelling.</li>
-      <li>💡 Experienced in identifying trends and patterns to drive business decisions.</li>
       <br>
-      <li style="margin-top: 20px;">🤔 Passionate about answering complex questions such as:
+      <li style="margin-top: 20px;">🔍 Passionate about answering complex questions such as:
         <ul style="list-style-type: disc; padding-left: 20px;">
           <li>📈 How can we improve operational efficiency?</li>
           <li>🔮 What patterns can help us predict future trends?</li>
@@ -45,36 +42,3 @@
 </div>
 <br>
 <h3 align="left">Data Analyst & BI Developer Stack:</h3>
-<div style="display: flex; flex-direction: column;">
-  <div style="display: flex; align-items: center;">
-    <span>- Data Analysis</span>
-    <br>
-    <img src="https://skillicons.dev/icons?i=python,excel,sql,pandas,numpy,matplotlib,seaborn" alt="Data Analysis" style="margin-left: 10px;" />
-  </div>
-  <div style="display: flex; align-items: center;">
-    <span>- Data Visualization</span>
-    <br>
-    <img src="https://skillicons.dev/icons?i=powerbi,plotly" alt="Data Visualization" style="margin-left: 10px;" />
-    <img src="https://i.imgur.com/Z633IlC.png" alt="Data Visualization" style="margin-left: 10px;" width="40" height="40" />
-  </div>
-  <div style="display: flex; align-items: center;">
-    <span>- Database Management</span>
-    <br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mssql" alt="Database Management" style="margin-left: 10px;" />
-  </div>
-  <div style="display: flex; align-items: center;">
-    <span>- Cloud Services</span>
-    <br>
-    <img src="https://skillicons.dev/icons?i=azure" alt="Cloud Services" style="margin-left: 10px;" />
-  </div>
-  <div style="display: flex; align-items: center;">
-    <span>- Tools</span>
-    <br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" style="margin-left: 10px;" />
-  </div>
-  <div style="display: flex; align-items: center;">
-    <span>- ETL</span>
-    <br>
-    <img src="https://i.imgur.com/E6ka6nu.png" alt="ETL" style="margin-left: 10px;" width="40" height="40" />
-  </div>
-</div>
