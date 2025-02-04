@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Pablo Moreno</h1>
+<h1 align="center">Hi 👋, I'm Pablo Moreno</h1>
 <h3 align="center">A Data Analyst Passionate About Transforming Data into Strategic Decisions 🚀</h3>
 
 <div style="text-align: justify; max-width: 800px; margin: 0 auto;">
@@ -21,10 +21,16 @@
     I take a <strong>collaborative approach</strong> to my work because I believe the best results come from combining diverse perspectives. I enjoy connecting with multidisciplinary teams to understand their challenges and deliver data-driven solutions that create real impact.
   </p>
   <p>
-    If you share my fascination with data or want to discuss how we can make numbers work for us, feel free to reach out! 🚀✨
+    If you share my fascination with data or want to discuss how we can make numbers work for us, feel free to reach out! 🚀✨  
   </p>
 </div>
+
+<div style="text-align: left; margin-top: 20px;">
+  <a href="https://github.com/thspin/thspin/blob/main/docs/CV%20Pablo%20Moreno.pdf" target="_blank">
+    <img src="https://i.imgur.com/JlYRnaN.png" alt="RESUME" style="height: 80px;">
+  </a>
 </div>
+   
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
