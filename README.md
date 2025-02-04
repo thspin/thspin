@@ -27,9 +27,9 @@
   </p>
 </div>
 </div>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 <div style="text-align: left; max-width: 800px; margin: 0 auto;">
   <ul style="list-style-type: none; padding-left: 20px;">
     <li>🔭 I’m currently studying for the Google Professional Data Analysis Certificate</li>
@@ -40,6 +40,16 @@
     <li>⚡ Fun fact: I'm a passionate fan of financial markets and football</li>
   </ul>
 </div>
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 <br>
-<img align="right" alt="Coding" style="max-width: 100%; height: auto;" src="https://i.imgur.com/UspWpbB.png">
+<div style="text-align: center;">
+  <img alt="Coding" src="https://i.imgur.com/UspWpbB.png" style="max-width: 100%; height: auto;">
+</div>
 
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
+
+<div style="text-align: center;">
+  <img alt="Data Stack" src="https://i.imgur.com/qgXtneg.png" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center;">
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
